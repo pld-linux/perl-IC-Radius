@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	IC
-%define	pnam	Radius
+%define		pdir	IC
+%define		pnam	Radius
 Summary:	IC::Radius - ICRADIUS interface module
 Summary(pl):	IC::Radius - modu³ interfejsu do ICRADIUS
 Name:		perl-IC-Radius
