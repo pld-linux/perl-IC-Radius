@@ -5,7 +5,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	IC
 %define	pnam	Radius
-Summary:	IC::Radius - ICRadius interface module
+Summary:	IC::Radius - ICRADIUS interface module
 Summary(pl):	IC::Radius - modu³ interfejsu do ICRADIUS
 Name:		perl-IC-Radius
 Version:	0.4
