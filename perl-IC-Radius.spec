@@ -6,7 +6,7 @@
 %define		pdir	IC
 %define		pnam	Radius
 Summary:	IC::Radius - ICRADIUS interface module
-Summary(pl.UTF-8):   IC::Radius - moduł interfejsu do ICRADIUS
+Summary(pl.UTF-8):	IC::Radius - moduł interfejsu do ICRADIUS
 Name:		perl-IC-Radius
 Version:	0.4
 Release:	1
