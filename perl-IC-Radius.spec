@@ -9,7 +9,7 @@ Summary:	IC::Radius - ICRADIUS interface module
 Summary(pl.UTF-8):	IC::Radius - moduł interfejsu do ICRADIUS
 Name:		perl-IC-Radius
 Version:	0.4
-Release:	1
+Release:	2
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.innercite.com/pub/perl/%{pdir}-%{pnam}-%{version}.tar.gz
